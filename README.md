@@ -38,7 +38,7 @@ This is a backend service for managing an inventory of assembly parts. It suppor
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository_url>
+git clone https://github.com/ancypeter2k/Backend-Coding-Task---Javascript.git
 cd assembly-inventory
 ```
 
